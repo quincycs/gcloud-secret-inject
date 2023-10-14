@@ -1,6 +1,6 @@
 {
   "name": "gcloud-secret-inject",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "bin": {
@@ -13,6 +13,10 @@
   "dependencies": {
     "@google-cloud/secret-manager": "^5.0.1"
   },
-  "author": "",
+  "author": "Quincy Mitchell",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quincycs/gcloud-secret-inject"
+  },
   "license": "MIT"
 }
